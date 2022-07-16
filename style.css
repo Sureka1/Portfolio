@@ -94,7 +94,7 @@ header{
     text-align: center;
 }
 
-header .user img{
+/*header .user img{
     height:17rem;
     width:17rem;
     border-radius: 50%;
@@ -102,7 +102,7 @@ header .user img{
     margin-bottom: 1rem;
     background-color: #fff;
     border:.7rem solid var(--yellow);
-}
+}*/
 
 header .user .name{
     font-size: 3.5rem;
