@@ -94,7 +94,7 @@ header{
     text-align: center;
 }
 
-/*header .user img{
+header .user img{
     height:17rem;
     width:17rem;
     border-radius: 50%;
@@ -102,7 +102,7 @@ header{
     margin-bottom: 1rem;
     background-color: #fff;
     border:.7rem solid var(--yellow);
-}*/
+}
 
 header .user .name{
     font-size: 3.5rem;
@@ -440,4 +440,14 @@ header .navbar ul li a:hover{
         margin:3rem 0;
     }
 
+ }
+ h1{
+    font-size: 3rem;
+    color:rgb(5, 121, 141);
+    padding-top: 1.5rem;
+ }
+ h4{
+    font-size: 1rem;
+    color:rgb(13, 13, 14);
+    padding-top: 1.5rem;
  }
