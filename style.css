@@ -47,7 +47,6 @@ section{
     min-height: 100vh;
     padding:1rem;
 }
-
 .btn{
     padding:.7rem 3rem;
     background:#333;
@@ -141,11 +140,11 @@ header .navbar ul li a:hover{
 
 #menu{
     position: fixed;
-    top:2rem; right:2rem;
-    background:#333;
-    color:#fff;
+    top:4rem; right:4rem;
+    background:rgb(253, 253, 253);
+    color:rgb(14, 13, 13);
     cursor: pointer;
-    font-size: 2.5rem;
+    font-size: 4rem;
     padding:1rem 1.5rem;
     z-index: 1000;
     display: none;
@@ -442,12 +441,12 @@ header .navbar ul li a:hover{
 
  }
  h1{
-    font-size: 3rem;
+    font-size: 5rem;
     color:rgb(5, 121, 141);
     padding-top: 1.5rem;
  }
  h4{
-    font-size: 1rem;
+    font-size: 3rem;
     color:rgb(13, 13, 14);
     padding-top: 1.5rem;
  }
