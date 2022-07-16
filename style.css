@@ -138,17 +138,17 @@ header .navbar ul li a:hover{
     background:var(--yellow);
 }
 
-/*#menu{
+#menu{
     position: fixed;
     top:2rem; right:2rem;
-    background:rgb(230, 12, 12);
+    background:rgb(81, 230, 12);
     color:rgb(14, 13, 13);
     cursor: pointer;
     font-size: 4rem;
     padding:1rem 1.5rem;
     z-index: 1000;
     display: none;
-}*/
+}
 
 .home{
     display: flex;
