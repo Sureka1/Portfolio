@@ -140,8 +140,8 @@ header .navbar ul li a:hover{
 
 #menu{
     position: fixed;
-    top:4rem; right:4rem;
-    background:rgb(253, 253, 253);
+    top:2rem; right:2rem;
+    background:rgb(230, 12, 12);
     color:rgb(14, 13, 13);
     cursor: pointer;
     font-size: 4rem;
