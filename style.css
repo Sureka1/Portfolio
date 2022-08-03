@@ -5,13 +5,13 @@
 }
 
 *{
-    font-family: 'Nunito', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     margin:0; padding:0;
     box-sizing: border-box;
     text-decoration: none;
     outline: none; 
     border:none;
-    text-transform: capitalize;
+    text-transform:inherit;
     transition: all .2s linear;
 }
 
@@ -35,6 +35,13 @@ html::-webkit-scrollbar-track{
 
 html::-webkit-scrollbar-thumb{
     background:var(--yellow);
+}
+.footer-socials{
+    align-items: center;
+    margin: right 50%;;
+    margin-left: 40%;
+
+
 }
 
 body{
